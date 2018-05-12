@@ -1,0 +1,32 @@
+_repo: Goody-Two-Shoes_37877
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Crane, Walter
+    birthdate: 1845
+    deathdate: 1915
+    gutenberg_agent_id: '7195'
+    url: http://www.gutenberg.org/2009/agents/7195
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Crane
+covers:
+- cover_type: archival
+  image_path: 37877-h/images/cover.jpg
+description: Goody Two Shoes.--Beauty and the beast.--The frog prince.--An alphabet
+  of old friends.
+gutenberg_issued: '2011-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trials (Witchcraft) -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcc 'PZ'
+title: Goody Two Shoes
+url: http://www.gutenberg.org/ebooks/37877
